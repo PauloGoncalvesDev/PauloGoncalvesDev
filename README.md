@@ -20,8 +20,6 @@
 </div>
 
 <div align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PauloGoncalvesDev&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PauloGoncalvesDev&theme=github_dark" />
-
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloGoncalvesDev&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 </div>
