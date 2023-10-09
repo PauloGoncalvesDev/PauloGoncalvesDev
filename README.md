@@ -2,6 +2,7 @@
 
 - :brain: Atualmente cursando Ciência da Computação na Universidade Federal do Ceará.
 - :dart: Buscando sempre melhorar minhas capacidades pessoais e profissionais.
+- 💻 Desenvolvedor Júnior BackEnd na empresa FitBank 450
 <br/>
 <a href = "https://t.me/PauloPK04"><img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 <a href = "https://www.linkedin.com/in/paulo-gsgoncalves/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
