@@ -26,7 +26,7 @@
 <div style="display: inline_block" align="left">
 <img align="center" alt="azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <br>
-<a href="https://learn.microsoft.com/credentials/certifications/azure-fundamentals/"> Microsoft Certified: Azure Fundamentals
+<a href="https://learn.microsoft.com/pt-br/users/pauloguilhermegoncalves/credentials/8ba229f263ec9563?ref=https%3A%2F%2Fwww.linkedin.com%2F"> Microsoft Certified: Azure Fundamentals
 <p><br></p>
 </div>
 
